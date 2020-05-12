@@ -1,0 +1,13 @@
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.exe
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.deps.json
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.runtimeconfig.json
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.runtimeconfig.dev.json
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.dll
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.pdb
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.csprojAssemblyReference.cache
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.AssemblyInfoInputs.cache
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.AssemblyInfo.cs
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.dll
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.pdb
+C:\Users\Jannek\RiderProjects\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.genruntimeconfig.cache
